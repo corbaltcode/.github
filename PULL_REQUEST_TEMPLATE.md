@@ -9,8 +9,8 @@
 * [ ] **The code has been checked for structural/syntactic validity.**
 	- AMI/application: a build was performed
 	- terraform changes: "terraform plan" checked on every affected environment
-* [ ] **The general purpose, structure, and flow of the code can be understood from looking at the code, PR description, and any linked design docs.
-(If applicable) the code has been manually tested on our infrastructure.**
+* [ ] **The general purpose, structure, and flow of the code can be understood from looking at the code, PR description, and any linked design docs.**
+* [ ] **(If applicable) the code has been manually tested on our infrastructure.**
 	- AMI/application: deployed an a test or dev environment
 	- terraform changes: applied to test or dev environment
 	- script: run against test or dev environment

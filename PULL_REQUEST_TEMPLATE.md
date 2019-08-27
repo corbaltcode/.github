@@ -15,3 +15,5 @@
 	- Application manually run in a way that triggers any new branches
 	- AMI logged into and changes verified from login shell
 * [ ] **Pull request description includes a description of all the manual steps performed to accomplish the above.**
+
+To provide feedback on this template, visit https://docs.google.com/document/d/1YfTv7Amyop5G_8w1c2GJ_Mu-70L0KkZHhm9f9umDi3U/edit
